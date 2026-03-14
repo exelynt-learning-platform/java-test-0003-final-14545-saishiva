@@ -1,4 +1,4 @@
-public class JAVA_TEST_0003{
+public class JAVA_TEST_0003 {
     public static void main(String[] args) {
         int n = 6;
 
@@ -9,13 +9,14 @@ public class JAVA_TEST_0003{
                 } else {
                     System.out.print("0");
                 }
-                
+
                 if (j < i) {
                     System.out.print(" ");
                 }
             }
-            
+
             System.out.println();
         }
     }
 }
+// final sol
